@@ -1,0 +1,21 @@
+{
+  "name": "multiscale-decomp_mse_q1_kodak_level2",
+  "description": "Inference (ans)",
+  "results": {
+    "psnr": [
+      28.00499559994054
+    ],
+    "ms-ssim": [
+      0.9127948383490244
+    ],
+    "bpp": [
+      0.09864976671006943
+    ],
+    "encoding_time": [
+      12.049865553776423
+    ],
+    "decoding_time": [
+      24.999245087305706
+    ]
+  }
+}

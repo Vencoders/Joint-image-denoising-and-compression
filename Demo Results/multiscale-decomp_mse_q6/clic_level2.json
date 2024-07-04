@@ -1,0 +1,21 @@
+{
+  "name": "multiscale-decomp_mse_q6_clic_level2",
+  "description": "Inference (ans)",
+  "results": {
+    "psnr": [
+      34.93798148451195
+    ],
+    "ms-ssim": [
+      0.9765493622640284
+    ],
+    "bpp": [
+      0.4347209556808411
+    ],
+    "encoding_time": [
+      134.5462155342102
+    ],
+    "decoding_time": [
+      221.17787828678038
+    ]
+  }
+}
