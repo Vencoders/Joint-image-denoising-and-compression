@@ -3,7 +3,7 @@
 This repository contains the implementation for the paper "JOINT END-TO-END IMAGE COMPRESSION AND DENOISING: LEVERAGING CONTRASTIVE LEARNING AND MULTI-SCALE SELF-ONNS"（IEEE ICIP 2024）.
 
 ## Paper
-The paper is available on (https://arxiv.org/abs/2402.05582)). 
+The paper is available on (https://arxiv.org/abs/2402.05582). 
 
 ## **Environment**
 
@@ -26,7 +26,7 @@ The paper is available on (https://arxiv.org/abs/2402.05582)).
 
 ## Datasets
 
-We used Flicker 2W dataset in this work.
+We utilize the Flicker 2W dataset for training and validation. All trained models are evaluated on the Kodak and CLIC datasets, which are commonly used for image processing methods.
 
 ## Training
 ```bash
@@ -42,9 +42,7 @@ OMP_NUM_THREADS=4 python test.py -opt ./conf/test/<xxx>.yml
 
 ## Checkpoint
 
-We provide our trained models in our paper.Pre-trained models can be [downloaded]
-链接：https://pan.baidu.com/s/16kFtOQCHXt1E4eFXdmAv2A 
-提取码：wpt5
+We provide our trained models in our paper. Pre-trained models can be [downloaded]. 链接：https://pan.baidu.com/s/16kFtOQCHXt1E4eFXdmAv2A  提取码：wpt5
 
 ## 
 
