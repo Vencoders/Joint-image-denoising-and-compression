@@ -40,12 +40,6 @@ cd codes
 OMP_NUM_THREADS=4 python test.py -opt ./conf/test/<xxx>.yml
 ```
 
-## Checkpoint
-
-We provide our trained models in our paper. Pre-trained models can be [downloaded]. 链接：https://pan.baidu.com/s/16kFtOQCHXt1E4eFXdmAv2A  提取码：wpt5
-
-## 
-
 ## Project information
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No [101022466], and from the NSF-Business Finland Center for Big Learning (CBL), Advanced Machine Learning for Industrial Applications (AMaLIA) under Grant 97/31/2023.
 
